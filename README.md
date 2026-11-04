@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Ibrahim Gamal Wassel</h1>
+<h1>Ibrahim Gamal </h1>
 
 <h3>Data Analyst | Business Intelligence | Power BI | SQL | Python | Odoo ERP</h3>
 
